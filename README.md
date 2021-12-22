@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Jay Rathod</h1>
 <h3 align="center">A Software Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/jayneversettle" target="blank"><img src="https://img.shields.io/twitter/follow/jayneversettle?logo=twitter&style=for-the-badge" alt="jayneversettle" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/jayneversettle" target="blank"><img src="https://img.shields.io/twitter/follow/jayneversettle?logo=twitter&style=for-the-badge" alt="jayneversettle" /></a> </p> -->
 
 - I’m currently learning **Spring Boot and React JS**
 
